@@ -1,1 +1,1 @@
-Un archivo README contiene información acerca de los archivos del proyecto. Es una forma de documentación de software.
+Un archivo README contiene información acerca del del proyecto y el contenido de sus carpetas. Es una forma de documentación de software.
